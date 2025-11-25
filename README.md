@@ -1,73 +1,42 @@
-# React + TypeScript + Vite
+# Biblioteka
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Biblioteka** is a minimal web application built with **React + TypeScript + Vite** that allows you to search and read books online. It supports searching by **title** or **author** across three categories: **Audio Books**, **Books**, and **Rare Books**, and features a responsive UI built with **Chakra UI**. Books available online can be read directly or listened to for audio files.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with Biblioteka, follow these steps:
 
-## React Compiler
+1. **Clone** this repository to your local machine.
+2. Run `npm install` to install all dependencies.
+3. Run `npm run dev` to start the local development server.
+4. Open your browser at [http://localhost:5173](http://localhost:5173) to see the app in action.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Search books by **title** or **author**, independently of their category.
+- Display books with cover images, title, and author name.
+- **Read** button for PDF books and **Listen** button for Audio (MP3) books.
+- Responsive UI for desktop and mobile devices.
+- Handles books without cover images: title/author text is centered and fully visible.
+- Three separate book categories.
+- Simple, modular, and reusable React components.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Project Structure
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **src/components/** – UI components such as `BookCard`, `BookGrid`, `BookReader`, `SearchBar`, `Header`.
+- **src/data/** – Contains JSON-like datasets (`audioBooks`, `books`, `rareBooks`) with Google Drive links.
+- **App.tsx** – Main application entry point.
+- **main.tsx** – Renders React into the DOM.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Learnings
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+This project is useful for learning how to:
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- Build a modern front-end application with React and TypeScript.
+- Manage application **state** and implement category-independent searching.
+- Create reusable and modular React components.
+- Use UI libraries like Chakra UI effectively.
+- Handle different file types (PDF and MP3) dynamically in the UI.
+- Maintain consistent layouts even when some items are missing cover images.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+**Biblioteka** is minimal and can be extended further with new features or backend integrations.
