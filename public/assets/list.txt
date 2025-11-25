@@ -1,0 +1,16 @@
+ Volume in drive D is ARKIVA
+ Volume Serial Number is 9A16-444B
+
+ Directory of D:\DEVELOPMENT\02_REACT\biblioteka\public\assets
+
+25/11/2025  09:56 AM    <DIR>          .
+25/11/2025  09:56 AM    <DIR>          ..
+25/11/2025  08:40 AM           359,844 Ada_Negri-Ne_Mjegull.jpg
+25/11/2025  08:41 AM           608,833 Alberto_Moravia-Tregime.jpg
+25/11/2025  08:41 AM           560,246 Aziz_Nesin-Femijet_e_Sotem.jpg
+25/11/2025  08:41 AM           607,500 George_Orwell-1984.jpg
+25/11/2025  08:42 AM         1,183,677 Gjergj_Fishta-Lahuta_e_Malcis.jpg
+25/11/2025  09:56 AM               134 list.txt
+25/11/2025  08:42 AM           713,506 Viktor_Canosinaj-Te_gjithe_tulipanet_e_botes.jpg
+               7 File(s)      4,033,740 bytes
+               2 Dir(s)  327,943,962,624 bytes free
