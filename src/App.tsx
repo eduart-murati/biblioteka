@@ -1,6 +1,6 @@
 // App.tsx
 import { useState } from "react";
-import { Box, Heading, Flex } from "@chakra-ui/react";
+import { Box, Image, Heading, Flex } from "@chakra-ui/react";
 import ThemeToggle from "../src/components/ThemeToggle";
 import BookGrid from "../src/components/BookGrid";
 import BookReader from "../src/components/BookReader";
@@ -44,6 +44,12 @@ export default function App() {
           flexWrap="wrap"
           gap={2}
         >
+          <Image
+            src="/assets/fshzh.png"
+            alt="Logo"
+            boxSize="45px"
+            objectFit="contain"
+          />
           <Heading size="md" flex="1" minW="150px">
             Biblioteka virtuale e FSHZH
           </Heading>
