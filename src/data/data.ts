@@ -40,6 +40,98 @@ url: "https://drive.google.com/file/d/1YfuuR0ErvPAcAxxsscjoSTmqcoskDODM/preview"
 
 
 export const books = [
+
+  { 
+    title: "Gjenerali i Ushtrise Se Vdekur.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Gjenerali-i-ushtrise-se-vdekur-ismail-kadare.jpg",
+    url: "https://drive.google.com/file/d/1FxjZsNTdg7Yj5JJtfx0zYDDJ8epOcWIU/preview"
+  },
+
+  { 
+    title: "Vargjet e Lira.pdf",
+    author: "MIGJENI",
+    img: "/assets/Vargjet-e-lira-novelat-e-qytetit-te-veriut.jpg",
+    url: "https://drive.google.com/file/d/15Ad6NUCaRv1iHwvJUJPduxPQRWTFuBX0/preview"
+  },
+
+  { 
+    title: "Keshtjella.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Keshtjella-ismail-kadare.jpg",
+    url: "https://drive.google.com/file/d/1zzaxizuU3zVf9FvvTXmPUwBoxUAe8ii9/preview"
+  },
+
+  { 
+    title: "Lahuta e Malesise.pdf",
+    author: "Gjergj Fishta",
+    img: "/assets/Lahuta-e-malsise-hc.jpg",
+    url: "https://drive.google.com/file/d/1kIeBIEXoEV4on8B436jzkztjezi0BPTx/preview"
+  },
+
+  { 
+    title: "Darka e gabuar.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Darka-e-gabuar-m.jpg",
+    url: "https://drive.google.com/file/d/1YHPPuOQfYam8AXiShE9gGbUUXgy-vnzw/preview"
+  },
+
+  { 
+    title: "Lulet-e-veres.pdf",
+    author: "Naim Frasheri",
+    img: "/assets/Lulet-e-veres-1.jpg",
+    url: "https://drive.google.com/file/d/1bgI0kAB2sFjDdI5iexEeufiAkdctbpiw/preview"
+  },
+
+  { 
+    title: "Gjakftohtesia.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Gjakftohtesia.jpg",
+    url: "https://https://drive.google.com/file/d/1o0Yycmm0VKQH3aCdZs2vHf_4fgLsBZMJ/preview"
+  },
+
+  { 
+    title: "Shqipëria ç'ka qenë, ç'është e ç'do të bëhet.pdf",
+    author: "Sami Frasheri",
+    img: "/assets/Shqiperia_cka_qene_dhe_cdo_te_behet.jpg",
+    url: "https://drive.google.com/file/d/15kgNYmXg9cUaTNgEgfupRBpc9Ct2YQU3/preview"
+  },
+  
+  { 
+    title: "Prilli i thyer.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Prilli-i-thyer.jpg",
+    url: "https://drive.google.com/file/d/1YmfLIhN2O9GDoCAfRWXW3g0ORSJUXbGr/preview"
+  },
+
+  { 
+    title: "Fjale te urta.pdf",
+    author: "Sami Frasheri",
+    img: "/assets/Fjale_te_urta.jpg",
+    url: "https://drive.google.com/file/d/1S4gSm1gA0qMBcvJWDhwDzzHhV1usiB6N/preview"
+  },
+
+  { 
+    title: "Qyteti pa reklama.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Qyteti-pa-reklama-ismail-kadare.jpg",
+    url: "https://drive.google.com/file/d/1vVlY-PMI46DScOzgH1L3p3U8Efbl4GRA/preview"
+  },
+
+  { 
+    title: "E penguara.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/E_penguara_Ismail-Kadare.jpg",
+    url: "https://drive.google.com/file/d/1ZLHe9QHOim9NBG1bA5l_uBXuOJKpCr2r/preview"
+  },
+
+   { 
+    title: "Gjenerali i Ushtrise Se Vdekur.pdf",
+    author: "Ismail Kadare",
+    img: "/assets/Gjenerali-i-ushtrise-se-vdekur-ismail-kadare2.jpg",
+    url: "https://drive.google.com/file/d/1quSZvm3Fcn-OlqRUpZzY1baPPIcR7aOd/preview"
+  },
+
   { 
     title: "Bazat e informatikës.pdf",
     author: "Zeqir Ajdini",
@@ -123,7 +215,6 @@ export const books = [
   { title: "Dostojevski - Nje zemer e dobet.pdf", url: "https://drive.google.com/file/d/1cN96KnARpfNoLV05Gh0LZ1_tw3dTO6dc/preview" },
   { title: "Drejtshkrimi i Gjuhës Shqipe (1973).pdf", url: "https://drive.google.com/file/d/1b-b7d-rsIs2wMeqfHXcJ6GeGTr4OZGwV/preview" },
   { title: "drejtshkrimi_i_gjuhes_shqipe_1973.pdf", url: "https://drive.google.com/file/d/1EDElCxasTRuZ80rKW-8_j97TnH_UOGpn/preview" },
-  { title: "E_penguara_-_Ismail_Kadare.pdf", url: "https://drive.google.com/file/d/1ZLHe9QHOim9NBG1bA5l_uBXuOJKpCr2r/preview" },
   { title: "Endacaku-Knulp-Herman-Hess-1.docx", url: "https://drive.google.com/file/d/1_XNeXqdagjBdBw2aLqnaXQmo3VCmb3Tb/preview" },
   { title: "Endacaku-Knulp-Herman-Hess-1.pdf", url: "https://drive.google.com/file/d/1b96z24xWMn1FGkT2kf9LhIxLHd8DbgNn/preview" },
   { title: "Ëndrra e një nate vere.pdf · version 1.pdf", url: "https://drive.google.com/file/d/1f4Lm3ttE1DvWXO-DttiECdJImrOTSZrJ/preview" },
@@ -163,13 +254,6 @@ export const books = [
   { title: "Identitete_Vrastare.pdf", url: "https://drive.google.com/file/d/1pQ6XEG16CPNaDNg0jf6VKrvl1bS86g7X/preview" },
   { title: "Iljasa Salihu - Mëngjesi i hershëm.pdf", url: "https://drive.google.com/file/d/1ALkAEi-c4EzS8x_MRVQOAx2hd3kF7_J1/preview" },
   { title: "Iljasa Salihu - Rrugëtimi nëpër mjegull.pdf", url: "https://drive.google.com/file/d/1eLsy8-Kin6wyKX9MWwU7hIld27yX7Cj4/preview" },
-  { title: "Ismail Kadare - Darka e gabuar.pdf", url: "https://drive.google.com/file/d/1YHPPuOQfYam8AXiShE9gGbUUXgy-vnzw/preview" },
-  { title: "Ismail Kadare - Gjakftohtesia.pdf", url: "https://drive.google.com/file/d/1o0Yycmm0VKQH3aCdZs2vHf_4fgLsBZMJ/preview" },
-  { title: "Ismail Kadare - Prilli i thyer.pdf", url: "https://drive.google.com/file/d/1YmfLIhN2O9GDoCAfRWXW3g0ORSJUXbGr/preview" },
-  { title: "Ismail Kadare - Qyteti pa reklama.pdf", url: "https://drive.google.com/file/d/1vVlY-PMI46DScOzgH1L3p3U8Efbl4GRA/preview" },
-  { title: "Kadare Gjenerali i Ushtrise Se Vdekur.pdf", url: "https://drive.google.com/file/d/1FxjZsNTdg7Yj5JJtfx0zYDDJ8epOcWIU/preview" },
-  { title: "Kadare_-_Gjenerali_i_Ushtrise_Se_Vdekur.pdf", url: "https://drive.google.com/file/d/1quSZvm3Fcn-OlqRUpZzY1baPPIcR7aOd/preview" },
-  { title: "Kadare_-_Keshtjella.pdf", url: "https://drive.google.com/file/d/1zzaxizuU3zVf9FvvTXmPUwBoxUAe8ii9/preview" },
   { title: "Kafka - Leter Babait.pdf", url: "https://drive.google.com/file/d/1AVXqfFp2X3kV1Bg_6RawX33B-sWQhi9Q/preview" },
   { title: "Kafka - Metamorfoza.pdf", url: "https://drive.google.com/file/d/1cATNCU5DSH6VKHyqjI1CZ6F83DxUTToI/preview" },
   { title: "kanuni i lek dukagjinit.pdf · version 1.pdf", url: "https://drive.google.com/file/d/13UxqgCJvGtmZSJEr19duOdk0egqjF4u1/preview" },
@@ -186,8 +270,7 @@ export const books = [
   { title: "Krim dhe Ndëshkim.pdf", url: "https://drive.google.com/file/d/1UGLB839kCExZ_x2-U5bcvdVlGLhHXpkU/preview" },
   { title: "Kronikë-e-një-vdekjeje-të-paralajmëruar-GG-Markez.pdf", url: "https://drive.google.com/file/d/1TodF59qM7MPpixiyYWaNUXGQAnQ8EEXt/preview" },
   { title: "Kuzhina shqiptare.pdf", url: "https://drive.google.com/file/d/1ORj24ER3AXVg4ivhY2Z_mf7qjU_JgSSL/preview" },
-  { title: "L.N.Tolstoi-Atë-Sergi1.pdf", url: "https://drive.google.com/file/d/1JJFpvbaLdV9uHz06y47jCvI3nzDpRGSb/preview" },
-  { title: "Lahuta e Malesise-At Gjergj Fishta.pdf", url: "https://drive.google.com/file/d/1kIeBIEXoEV4on8B436jzkztjezi0BPTx/preview" },
+  { title: "L.N.Tolstoi-Atë-Sergi1.pdf", url: "https://drive.google.com/file/d/1JJFpvbaLdV9uHz06y47jCvI3nzDpRGSb/preview" },  
   { title: "Leo Tolstoi Ana Karenina 1-4.pdf", url: "https://drive.google.com/file/d/1OKfsmYW4zPYEhja_iuMJyvs8cZDo7wC0/preview" },
   { title: "Leo Tolstoi Ana Karenina 2-8.pdf", url: "https://drive.google.com/file/d/1jDTAL7wGyKDO2Pzgt-Kg-r6Eg1OkzSuE/preview" },
   { title: "Leon Tolstoi - Ate Sergi.pdf", url: "https://drive.google.com/file/d/1dGP8r6SrOwUn8o5GsBy1kRq80bwcv3i3/preview" },
@@ -204,13 +287,11 @@ export const books = [
   { title: "Maxim Gorky - Nena.pdf", url: "https://drive.google.com/file/d/1JKly3emh4UqyRI9CTF0NoMCn1BlOjeep/preview" },
   { title: "Mbremje-e-bekuar-Nagib-Mahfuz.pdf", url: "https://drive.google.com/file/d/1bkRFtH3T4UKwfiRXEH5Pkcgvr8pZn-DN/preview" },
   { title: "Melville Chater - Shqipëria, Mbretëria më e re e Evropës (1931).pdf", url: "https://drive.google.com/file/d/16g3Xaq2x2f76A0RkukpCfxC3gJ-toG53/preview" },
-  { title: "Migjeni-VargjeteLira.pdf", url: "https://drive.google.com/file/d/15Ad6NUCaRv1iHwvJUJPduxPQRWTFuBX0/preview" },
   { title: "Milazim Krasniqi - Ruletë ruse për Ali Pashën.pdf", url: "https://drive.google.com/file/d/15PaYz98aL6iAIKnMJL9D28U5t1p9MZrM/preview" },
   { title: "Misteret e Klares - Ellen Marie Wiseman_.pdf", url: "https://drive.google.com/file/d/1pVNF6vgvv3p--v2TZE0sM3VBlk1Mhw0o/preview" },
   { title: "MISTIKA, MAGJIA DHE BUKURIA E UNIVERSIT.pdf", url: "https://drive.google.com/file/d/1uztMDybf5V9Km9b6OQnji9F4QpGGOBnd/preview" },
   { title: "Modern Architecture Through Case Studies 1945 to 1990.pdf", url: "https://drive.google.com/file/d/1MwzyXJDkWgFtI4U6IJ7xs0-0RL7kWrH5/preview" },
   { title: "Mos u Trishto_text.pdf", url: "https://drive.google.com/file/d/17eUx_k6_ixevjKcSdj77ta9fh-q2Yna2/preview" },
-  { title: "Naim Frasheri - Lulet e veres.pdf", url: "https://drive.google.com/file/d/1bgI0kAB2sFjDdI5iexEeufiAkdctbpiw/preview" },
   { title: "Nderi-i-humbur-i-Katerina-Blumit-Hajnrih-Bël-1.pdf", url: "https://drive.google.com/file/d/1H3UIISJsEtS3htkXIP_6j-fNzxr38thi/preview" },
   { title: "Në gjurmë të filmave.pdf", url: "https://drive.google.com/file/d/1MySy17cqHYRdIuQXSEeFGt0dTce0AEXX/preview" },
   { title: "Nelson R. Çabej - Building the Most Complex Structure on Earth.pdf", url: "https://drive.google.com/file/d/1dh9lQnyB8VXEecOCVfqJtS9rXJl0v6Ze/preview" },
@@ -237,8 +318,6 @@ export const books = [
   { title: "Robert Elsie - Një fund dhe një fillim.pdf", url: "https://drive.google.com/file/d/1XxidZR802ABvL8JGsnqd5cq-EftRGZuk/preview" },
   { title: "RREGULLAT E PIKESIMIT NE GJUHEN SHQIPE.pdf", url: "https://drive.google.com/file/d/1R01tyX8ZfOLKSvv_DOtdRAxi6PUxjDFr/preview" },
   { title: "Rubairat-e-Omar-Khajamit.pdf", url: "https://drive.google.com/file/d/163uWwEJTu-xwJftAlxRx2Cna7WSfkvdC/preview" },
-  { title: "Sami Frashëri - Semsettin Sami-Shqipëria ç’ka qënë, ç’është e ç’do të bëhetë-Albaniana (2015).pdf", url: "https://drive.google.com/file/d/15kgNYmXg9cUaTNgEgfupRBpc9Ct2YQU3/preview" },
-  { title: "Sami_Frasheri-fjalt_e_urta.pdf", url: "https://drive.google.com/file/d/1S4gSm1gA0qMBcvJWDhwDzzHhV1usiB6N/preview" },
   { title: "Samuel Beckett - Duke pritur Godone dhe Oh ato dite te bukura.pdf", url: "https://drive.google.com/file/d/1J3ztuLO_0us9Hxj0d5XQ8giCDwU3dmoL/preview" },
   { title: "Samuel Beckett - Duke pritur Godone dhe Oh ato dite te bukura.pdf · version 1.pdf", url: "https://drive.google.com/file/d/1jSQcqeb9L7DajQWdsgaeR-eiSLIMnmgb/preview" },
   { title: "scribd-download.com_alber-camus-vera-n-euml-algjer.pdf", url: "https://drive.google.com/file/d/1vAsI1HJKUZtdzUjJthfyvdhuS1XZqKZx/preview" },
