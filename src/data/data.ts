@@ -83,11 +83,11 @@ export const books = [
     url: "https://drive.google.com/file/d/1bgI0kAB2sFjDdI5iexEeufiAkdctbpiw/preview"
   },
 
-  { 
+  {
     title: "Gjakftohtesia.pdf",
     author: "Ismail Kadare",
     img: "/assets/Gjakftohtesia.jpg",
-    url: "https://https://drive.google.com/file/d/1o0Yycmm0VKQH3aCdZs2vHf_4fgLsBZMJ/preview"
+    url: "https://drive.google.com/file/d/130dRvcunjw2RmJG1uuPn67RkpSvxPb-x/preview"
   },
 
   { 
@@ -130,6 +130,13 @@ export const books = [
     author: "Ismail Kadare",
     img: "/assets/Gjenerali-i-ushtrise-se-vdekur-ismail-kadare2.jpg",
     url: "https://drive.google.com/file/d/1quSZvm3Fcn-OlqRUpZzY1baPPIcR7aOd/preview"
+  },
+
+  { 
+    title: "Gramatika praktike e gjuhes shqipe.pdf",
+    author: "M.Çeliku, M.Karapinjalli, R.Stringa",
+    img: "/assets/Gramatka_praktike_e_gjuhes_shqipe.jpg",
+    url: "https://drive.google.com/file/d/1cg6iBHoEhz1RDBhimdzwUItsHvWY07bg/preview"
   },
 
   { 
@@ -241,7 +248,6 @@ export const books = [
   { title: "Gibran, Profeti.pdf", url: "https://drive.google.com/file/d/14b12H2ZA-yY6ljgLtqFEzTQQNx4w1aOf/preview" },
   { title: "Gjovalin Shkurtaj - Si të shkruajmë shqip.pdf", url: "https://drive.google.com/file/d/1De6h-bDY8E1CP8ieDr3oizzLGcI__gjJ/preview" },
   { title: "gomari-i-babatasit.pdf", url: "https://drive.google.com/file/d/1-XFlt5YaBzy_UhDl4kpRcQv6TwBwPVxQ/preview" },
-  { title: "Gramatika praktike e gjuhes shqipe.pdf", url: "https://drive.google.com/file/d/1cg6iBHoEhz1RDBhimdzwUItsHvWY07bg/preview" },
   { title: "Gustav Flober - Zonja Bovari.pdf", url: "https://drive.google.com/file/d/1YiskDO_UhwOs1Fs_MyRlPlmMRTk8uPz3/preview" },
   { title: "Gustav_Flober_-_Zonja_Bovari.pdf", url: "https://drive.google.com/file/d/1aBZ6RWUMXdqFcQHtD3pyQ181yUmUYO72/preview" },
   { title: "Hamleti William Shakespeare.pdf", url: "https://drive.google.com/file/d/1tsRxtg-KmhXBMqG9HLiAiijtbqAjn9rU/preview" },
