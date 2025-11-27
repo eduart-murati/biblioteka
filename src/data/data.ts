@@ -1,41 +1,41 @@
 // src/data/data.js
 export const audioBooks = [
-  {
-title: "Ne Mjegull.mp3",
-author: "Ada Negri",
-img: "/assets/Ada_Negri-Ne_Mjegull.jpg",
-url: "https://drive.google.com/file/d/1avNEBeETcBLzkmxmEkeRu5svuqQuH5lS/preview"
+{
+  title: "Ne Mjegull.mp3",
+  author: "Ada Negri",
+  img: "/assets/Ada_Negri-Ne_Mjegull.jpg",
+  url: "https://drive.google.com/file/d/1avNEBeETcBLzkmxmEkeRu5svuqQuH5lS/preview"
 },
 {
-title: "Tregime.mp3",
-author: "Alberto Moravia",
-img: "/assets/Alberto_Moravia-Tregime.jpg",
-url: "https://drive.google.com/file/d/1ALg4wDhCxy69vrEy6HZJIUieR_p-rQAR/preview"
+  title: "Tregime.mp3",
+  author: "Alberto Moravia",
+  img: "/assets/Alberto_Moravia-Tregime.jpg",
+  url: "https://drive.google.com/file/d/1ALg4wDhCxy69vrEy6HZJIUieR_p-rQAR/preview"
 },
 {
-title: "Femijet e Sotem.mp3",
-author: "Aziz Nesin",
-img: "/assets/Aziz_Nesin-Femijet_e_Sotem.jpg",
-url: "https://drive.google.com/file/d/1SK5X9tf63hJT1cCOKqtZQqts2ta-OK8i/preview"
+  title: "Femijet e Sotem.mp3",
+  author: "Aziz Nesin",
+  img: "/assets/Aziz_Nesin-Femijet_e_Sotem.jpg",
+  url: "https://drive.google.com/file/d/1SK5X9tf63hJT1cCOKqtZQqts2ta-OK8i/preview"
 },
 {
-title: "1984.mp3",
-author: "George Orwell",
-img: "/assets/George_Orwell-1984.jpg",
-url: "https://drive.google.com/file/d/1_57yz3tPxoG-5AnohkF_bFt9l2StYVRV/preview"
+  title: "1984.mp3",
+  author: "George Orwell",
+  img: "/assets/George_Orwell-1984.jpg",
+  url: "https://drive.google.com/file/d/1_57yz3tPxoG-5AnohkF_bFt9l2StYVRV/preview"
 },
 {
-title: "Lahuta e Malcis (Reshat Arbana).mp3",
-author: "Gjergj Fishta",
-img: "/assets/Gjergj_Fishta-Lahuta_e_Malcis.jpg",
-url: "https://drive.google.com/file/d/1KMK-KIFPqMNHovJwi5R-nt5AMvt-Rkgo/preview"
+  title: "Lahuta e Malcis (Reshat Arbana).mp3",
+  author: "Gjergj Fishta",
+  img: "/assets/Gjergj_Fishta-Lahuta_e_Malcis.jpg",
+  url: "https://drive.google.com/file/d/1KMK-KIFPqMNHovJwi5R-nt5AMvt-Rkgo/preview"
 },
 {
-title: "Te gjithe tulipanet e botes.mp3",
-author: "Viktor Canosinaj",
-img: "/assets/Viktor_Canosinaj-Te_gjithe_tulipanet_e_botes.jpg",
-url: "https://drive.google.com/file/d/1YfuuR0ErvPAcAxxsscjoSTmqcoskDODM/preview"
-}
+  title: "Te gjithe tulipanet e botes.mp3",
+  author: "Viktor Canosinaj",
+  img: "/assets/Viktor_Canosinaj-Te_gjithe_tulipanet_e_botes.jpg",
+  url: "https://drive.google.com/file/d/1YfuuR0ErvPAcAxxsscjoSTmqcoskDODM/preview"
+  }
 ];
 
 
@@ -83,13 +83,13 @@ export const books = [
     url: "https://drive.google.com/file/d/1bgI0kAB2sFjDdI5iexEeufiAkdctbpiw/preview"
   },
 
-  {
-    title: "Gjakftohtesia.pdf",
+    { 
+    title: "E penguara.pdf",
     author: "Ismail Kadare",
-    img: "/assets/Gjakftohtesia.jpg",
-    url: "https://drive.google.com/file/d/130dRvcunjw2RmJG1uuPn67RkpSvxPb-x/preview"
+    img: "/assets/E_penguara_Ismail-Kadare.jpg",
+    url: "https://drive.google.com/file/d/1ZLHe9QHOim9NBG1bA5l_uBXuOJKpCr2r/preview"
   },
-
+  
   { 
     title: "Shqipëria ç'ka qenë, ç'është e ç'do të bëhet.pdf",
     author: "Sami Frasheri",
@@ -118,11 +118,11 @@ export const books = [
     url: "https://drive.google.com/file/d/1vVlY-PMI46DScOzgH1L3p3U8Efbl4GRA/preview"
   },
 
-  { 
-    title: "E penguara.pdf",
+  {
+    title: "Gjakftohtesia.pdf",
     author: "Ismail Kadare",
-    img: "/assets/E_penguara_Ismail-Kadare.jpg",
-    url: "https://drive.google.com/file/d/1ZLHe9QHOim9NBG1bA5l_uBXuOJKpCr2r/preview"
+    img: "/assets/Gjakftohtesia.jpg",
+    url: "https://drive.google.com/file/d/130dRvcunjw2RmJG1uuPn67RkpSvxPb-x/preview"
   },
 
    { 
